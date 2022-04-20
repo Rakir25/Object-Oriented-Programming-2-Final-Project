@@ -1,0 +1,33 @@
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.Properties.Resources.resources
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.csproj.GenerateResource.cache
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.csproj.CoreCompileInputs.cache
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\bin\Debug\ElecShop.exe.config
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\bin\Debug\ElecShop.exe
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\bin\Debug\ElecShop.pdb
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.exe
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.pdb
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.OptionView.resources
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.ViewProducts.resources
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.AddMember.resources
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.CRUD.resources
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.LoginForm.resources
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.ProductCarts.resources
+E:\AIUB__CSE_ACADEMIC\SEMESTER-08\C#\FINAL TERM\ElecShop\ElecShop\obj\Debug\ElecShop.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ElecShop\bin\Debug\ElecShop.exe.config
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.exe
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.pdb
+C:\Users\HP\Desktop\ElecShop\bin\Debug\ElecShop.exe
+C:\Users\HP\Desktop\ElecShop\bin\Debug\ElecShop.pdb
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.AddMember.resources
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.CRUD.resources
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.LoginForm.resources
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.ProductCarts.resources
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.OptionView.resources
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.Properties.Resources.resources
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.ViewProducts.resources
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ElecShop\obj\Debug\ElecShop.Registration.resources
+C:\Users\ASUS\Dropbox\PC\Desktop\Inventory Management Systems\ElecShop\obj\Debug\ElecShop.csprojAssemblyReference.cache
+C:\Users\ASUS\Dropbox\PC\Desktop\Inventory Management Systems\ElecShop\obj\Debug\ElecShop.exe
+C:\Users\ASUS\Dropbox\PC\Desktop\Inventory Management Systems\ElecShop\obj\Debug\ElecShop.pdb
